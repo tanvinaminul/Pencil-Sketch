@@ -6,7 +6,7 @@ Python open cv
 ```
 pip install opencv-python 
 ```
-# Procedure
+## Procedure
 Rename the image file with "img.jpg"
 ```
 python main.py
