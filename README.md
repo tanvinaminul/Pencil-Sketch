@@ -13,7 +13,7 @@ python main.py
 ```
 ### To see the process of image modification uncomment all cv2.imshow code
 
-## output
+## output:
 <img
   src="output.png"
   alt="Alt text"
